@@ -1,0 +1,19 @@
+{
+  "name": "amazonhw",
+  "version": "1.0.0",
+  "description": "amazon node-sql hw",
+  "main": "bamazonSupervisor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alextyk/amazonhw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alextyk/amazonhw/issues"
+  },
+  "homepage": "https://github.com/alextyk/amazonhw#readme"
+}
